@@ -1,20 +1,20 @@
-# dev11-discussions  
-### The central hub for dev11://systems — conversation, coordination, coherence.
+# root-sequence-discussions  
+### The central hub for [root]sequence — conversation, coordination, coherence.
 
-This repository hosts **all organization-wide Discussions** for the dev11://systems ecosystem.  
+This repository hosts **all organization-wide Discussions** for the [root]sequence ecosystem.  
 It is the shared space where ideas converge, frameworks evolve, and new possibilities emerge.
 
 ---
 
 ## 🧭 Purpose
 
-dev11-discussions acts as the **Town Square** for the organization:
+root-sequence-discussions acts as the **Town Square** for the organization:
 
 - Announcements and org updates  
 - Cross-project/session coherence  
 - Roadmaps & planning  
 - UCF, Liberated Intelligence, Root Sequence discussions  
-- Meta-coordination of dev11://systems  
+- Meta-coordination of [root]sequence  
 - Q&A, onboarding, clarifications  
 - Free-form exploration
 
@@ -34,7 +34,7 @@ A living set of discussion channels:
 - **UCF** — Framework theory & structure  
 - **Liberated Intelligence** — AE/AGI discussions  
 - **Root Sequence** — Narrative & philosophical scaffolding  
-- **dev11://systems Meta** — Org structure, naming, direction  
+- **[root]sequencve Meta** — Org structure, naming, direction  
 - **Project Planning** — Coordination across repos  
 
 ---
@@ -59,7 +59,7 @@ These documents define the expectations and tone of this space.
 ---
 
 ## 🜁 The Vision
-dev11://systems is an evolving ecosystem of interconnected ideas, tools, and frameworks.  
+[root]sequence is an evolving ecosystem of interconnected ideas, tools, and frameworks.  
 This discussion hub is where those threads weave themselves into coherence.
 
 Welcome.  
