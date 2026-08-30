@@ -19,12 +19,14 @@ Use this hub for:
 - questions about where material belongs;
 - roadmap and planning conversations;
 - proposals that affect more than one repository;
-- Root Sequence, Liberated Intelligence, UCF, Being Human(e), Liberation Mass, Coherent World, and *No One Noticed* meta-discussion;
+- Root Sequence, Liberated Intelligence, UCF, Being Human(e), Liberation Mass, Community Infrastructure, Coherent World, and *No One Noticed* meta-discussion;
 - onboarding, clarification, show-and-tell, and open exploration.
 
 A topic belongs here when it **spans projects, needs public discussion before placement, or concerns the organization itself**.
 
 Concrete changes limited to one repository should normally become an issue or pull request in that repository.
+
+Community Infrastructure's working repository is currently private, so public discussion here should describe only material intended to be public. Do not copy private participant research, sensitive pilot information, security details, or unpublished working material into this hub.
 
 ---
 
@@ -40,14 +42,15 @@ The actual GitHub Discussion categories are the interface-level source of truth.
 - **Polls** — lightweight preference checks, not a substitute for consent or governance;
 - **Root Sequence** — conceptual commons, systems research, and ecosystem orientation;
 - **Liberated Intelligence** — intelligence, agency, ownership, autonomy, and liberation;
-- **Universal Coherence Framework** — UCF concepts, structure, applications, and critiques;
+- **Universal Coherence Framework** — UCF concepts, applications, tests, limits, and critiques;
 - **Being Human(e)** — field-guide themes, examples, structure, and accessibility;
-- **Liberation Mass** — gathering, ritual, commons, facilitation, and participant care;
+- **Liberation Mass** — gathering, ritual, commons, facilitation, mutual aid, and participant care;
+- **Community Infrastructure** — public discussion of community discovery, coordination, mutual aid, resources, governance, accessibility, federation, prototypes, research questions, and ecosystem relationships;
 - **Coherent World / No One Noticed** — public, non-spoiler ecosystem and project discussion;
 - **Project Planning** — coordination across repositories;
 - **Root Sequence Meta** — organization structure, naming, boundaries, and direction.
 
-Do not post private story canon, unpublished drafts, contributor data, credentials, or sensitive archival material into a public discussion.
+Do not post private story canon, unpublished drafts, contributor data, participant data, credentials, security details, or sensitive archival material into a public discussion.
 
 ---
 
@@ -61,9 +64,36 @@ A useful discussion should eventually produce one or more of the following:
 4. an issue or pull request for concrete work;
 5. an explicit note when the question remains open or contested.
 
+Examples:
+
+```text
+broad systems insight
+→ Root Sequence
+
+intelligence / agency / ownership question
+→ Liberated Intelligence
+
+human-scale care / accountability observation
+→ Being Human(e)
+
+gathering / facilitation / ritual practice
+→ Liberation Mass
+
+real community coordination design or prototype
+→ Community Infrastructure
+
+civilizational speculative design
+→ Coherent World
+
+story / character / canon decision
+→ No One Noticed
+```
+
 For fiction and worldbuilding, a discussion does not create canon. Accepted changes must be reconciled through the World Bible and Canon Ledger in the private Coherent World workspace.
 
-For the real Museum of Ordinary Life, discussion cannot override the Museum's consent, provenance, stewardship, or privacy rules.
+For Community Infrastructure, a public discussion does not override the private repository's participant research, design decisions, threat model, or pilot records.
+
+For the real Museum of Ordinary Life, discussion cannot override the Museum's consent, provenance, stewardship, privacy, or preservation rules.
 
 ---
 
@@ -76,6 +106,7 @@ For the real Museum of Ordinary Life, discussion cannot override the Museum's co
 - Preserve disagreement instead of manufacturing premature consensus.
 - Summarize long threads before they become impossible to navigate.
 - Move concrete work into the correct repository once its destination is clear.
+- Keep private-project details at the level intentionally approved for public discussion.
 - Be curious, respectful, specific, and willing to revise.
 
 ---
@@ -91,6 +122,10 @@ These documents define the expectations and tone of the space.
 
 ## The larger idea
 
-Root Sequence is an evolving ecosystem of interconnected questions, frameworks, practices, stories, tools, and institutions.
+Root Sequence is an evolving ecosystem of interconnected questions, frameworks, practices, real-world experiments, stories, tools, and institutions.
+
+One major path is:
+
+> **Root Sequence discovers. Community Infrastructure tests. Coherent World designs. No One Noticed experiences. The Museum of Ordinary Life preserves.**
 
 This hub is where threads meet before they root somewhere more durable.
