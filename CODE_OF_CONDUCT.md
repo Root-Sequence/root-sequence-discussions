@@ -1,6 +1,6 @@
-# Code of Conduct — dev11://systems
+# Root Sequence Discussions Code of Conduct
 
-dev11://systems is a collaborative ecosystem for building ideas, frameworks, and tools across many domains.  
+Root Sequence is an evolving ecosystem of research, frameworks, practices, stories, tools, and institutions.
 We aim to create a space grounded in curiosity, respect, and constructive exploration.
 
 This Code of Conduct outlines expectations for all participants in discussions, issues, pull requests, and any interactions within the organization.
@@ -53,9 +53,9 @@ Actions will be taken at the discretion of maintainers to preserve a healthy env
 ---
 
 ## 📫 Reporting
-If you experience or witness a violation, please contact the organization maintainers directly via GitHub or through the preferred contact method listed on the dev11://systems profile.
+If you experience or witness a violation, contact the organization maintainers directly through GitHub or through the contact method listed on the Root Sequence organization profile. Do not post sensitive reports or personal information in a public discussion.
 
 ---
 
 ## 🜁 Commitment
-By participating in dev://systems, you agree to uphold this Code of Conduct and contribute to a collaborative, respectful, and exploratory environment.
+By participating in Root Sequence Discussions, you agree to uphold this Code of Conduct and contribute to a collaborative, respectful, and exploratory environment.
