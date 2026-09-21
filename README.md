@@ -1,5 +1,7 @@
 # Root Sequence Discussions
 
+> **New, returning, or overloaded? Read [START-HERE.md](START-HERE.md) for the smallest useful map.**
+
 ### The shared hub for conversation, coordination, and cross-project coherence.
 
 This repository hosts organization-wide GitHub Discussions for the Root Sequence ecosystem. It is the place for ideas that cross repository boundaries, questions whose destination is not yet clear, public planning, and conversation about how the projects relate.
