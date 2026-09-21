@@ -8,6 +8,8 @@ review_sources: README.md, CONTRIBUTING.md, GOVERNANCE.md, CODE_OF_CONDUCT.md, .
 review_when: categories, governance, participation, routing, or privacy-boundary changes
 END-START-HERE-META -->
 
+For a comprehensive working briefing, continue to [PROJECT-CONTEXT.md](PROJECT-CONTEXT.md).
+
 ## In one sentence
 
 Root Sequence Discussions is the public conversation and coordination hub for cross-project questions, early ideas, announcements, and routing.
