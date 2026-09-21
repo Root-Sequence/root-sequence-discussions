@@ -18,15 +18,17 @@ It is a foyer and coordination surface—not the canonical home of every durable
 
 | Question | Canonical source |
 | --- | --- |
-| Purpose, categories, and routing | [`README.md`](README.md) |
-| Participation flow | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
-| Scope and decision routing | [`GOVERNANCE.md`](GOVERNANCE.md) |
-| Conduct and reporting | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) |
+| Current purpose, categories, and routing | [`README.md`](README.md) |
+| Participation guide; legacy identity pending alignment | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| Governance draft; legacy identity pending alignment | [`GOVERNANCE.md`](GOVERNANCE.md) |
+| Conduct rules; legacy identity pending alignment | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) |
 | Organization relationships | [Root Sequence Ecosystem Map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md) |
 
 ## Current reality
 
 The repository contains the durable instructions around the live Discussions interface. Actual categories in GitHub remain the interface-level source of truth. Discussion can clarify and recommend; accepted durable work should be recorded in the repository that owns it.
+
+`CONTRIBUTING.md`, `GOVERNANCE.md`, and `CODE_OF_CONDUCT.md` still use the earlier `dev11://systems` identity. Until they are deliberately aligned with Root Sequence, their legacy naming and governance wording must not override the current README, live category structure, privacy boundary, or project-owned decision routing.
 
 ## Repository structure
 
@@ -42,6 +44,7 @@ Every Root Sequence project may use this hub for cross-boundary conversation. Th
 - End substantial threads with a summary, unresolved disagreement, canonical destination, and next action.
 - Do not post private canon, participant data, credentials, sensitive operations, or unpublished drafts.
 - A discussion does not create canon, override research, or grant publication approval.
+- Treat the legacy participation, governance, and conduct files as pending alignment where they conflict with current Root Sequence identity or authority boundaries.
 
 ## Update contract
 
