@@ -1,72 +1,38 @@
-# Contributing to dev11-discussions
+# Contributing to Root Sequence Discussions
 
-Thanks for being part of dev11://systems.  
-This repository serves as the *organization-wide hub* for discussions, updates, ideas, and cross-project coordination.
+This repository is the public, organization-wide conversation hub for Root Sequence. It helps questions and ideas find the right home without turning a discussion thread into a second source of truth.
 
-These guidelines help keep conversations clear, collaborative, and constructive.
+## Before starting a discussion
 
----
+- Search existing discussions for the topic or question.
+- Check the [Root Sequence Ecosystem Map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md) when you are unsure which project owns the subject.
+- Use the relevant project’s issue tracker or pull requests for a concrete change limited to one repository.
+- Keep private drafts, fiction canon, participant information, credentials, security details, and unpublished project material out of this public space.
 
-## 🧭 Before You Start
-- Look through existing **Discussion categories** to find the right place.
-- Search for similar threads before creating a new one.
-- For repo-specific topics, please post in that project’s own Discussions/Issues.
+## Starting a discussion
 
----
+1. Choose the category that describes the kind of conversation.
+2. Use a descriptive title that another reader could find later.
+3. Explain what you are asking, proposing, observing, or testing—and why it matters.
+4. Link relevant repositories, documents, sources, issues, or earlier discussions.
+5. Distinguish evidence, interpretation, speculation, personal reaction, and proposed action where that distinction matters.
+6. If you already know the likely canonical destination, name it. Otherwise, say that placement is still open.
 
-## 📝 Starting a New Discussion
-When opening a thread:
+## Participating
 
-1. Choose the correct **category**  
-2. Use a **clear, descriptive title**  
-3. Provide context:
-   - What you’re proposing or exploring  
-   - Why it matters  
-   - Any relevant links, repos, or documents  
-4. Keep the initial post focused, even if the topic is open-ended  
+- Be respectful, curious, and specific.
+- Ask clarifying questions before assuming intent.
+- Preserve meaningful disagreement instead of forcing premature consensus.
+- Add sources and context when they improve the conversation.
+- Summarize long threads and record unresolved questions.
+- Move concrete work into the appropriate repository once its destination is clear.
 
----
+## Durable outcomes
 
-## 💬 Participating in Discussions
-- Be respectful and curious  
-- Ask clarifying questions when unsure  
-- Build on ideas rather than dismissing them  
-- Keep replies on-topic  
-- Use links or references when they help  
-- Summarize long threads when useful  
+A useful thread may end with a summary, an identified canonical home, an issue or pull request, links to related work, or an explicit statement that the question remains open. The discussion should route durable decisions and documents; it should not silently replace them.
 
----
+## Maintainer stewardship
 
-## 🧘 Tone & Culture
-dev11://systems emphasizes:
+Maintainers may recategorize or retitle discussions for clarity, link overlapping threads, request privacy or safety edits, lock conversations when necessary, and help route concrete work to the appropriate repository.
 
-- Openness  
-- Systems thinking  
-- Creative exploration  
-- Connection across disciplines  
-- Mutual respect  
-
-These values guide our collaboration here.
-
----
-
-## 🔧 Maintainers
-Org maintainers may:
-
-- Move discussions to better categories  
-- Rename titles for clarity  
-- Merge overlapping topics  
-- Moderate harmful or disruptive behavior  
-
----
-
-## 📜 Code of Conduct
-All participation is governed by the **dev11://systems Code of Conduct** (or GitHub’s default if not yet defined).
-
-By contributing, you agree to uphold these principles.
-
----
-
-## 🜁 Welcome
-This space evolves with the community.  
-Thank you for helping shape dev://systems.
+All participation is governed by the [Code of Conduct](./CODE_OF_CONDUCT.md).

@@ -21,7 +21,7 @@ Use this hub for:
 - questions about where material belongs;
 - roadmap and planning conversations;
 - proposals that affect more than one repository;
-- Root Sequence, Liberated Intelligence, UCF, Being Human(e), Liberation Mass, Community Infrastructure, Coherent World, and *No One Noticed* meta-discussion;
+- cross-project research, interpretation, critique, and synthesis;
 - onboarding, clarification, show-and-tell, and open exploration.
 
 A topic belongs here when it **spans projects, needs public discussion before placement, or concerns the organization itself**.
@@ -32,25 +32,21 @@ Community Infrastructure's working repository is currently private, so public di
 
 ---
 
-## Working categories
+## Discussion categories
 
-The actual GitHub Discussion categories are the interface-level source of truth. Useful category purposes include:
+Categories describe the **kind of conversation**, not a separate home for every project. This keeps the hub usable as projects change while project-specific work stays with the project that owns it.
 
-- **Announcements** — official project and organization updates;
-- **General** — open conversation that does not need a narrower channel;
-- **Ideas** — proposals, seeds, experiments, and early connections;
-- **Q&A** — questions with potentially reusable answers;
-- **Show & Tell** — demos, prototypes, publications, and project progress;
-- **Polls** — lightweight preference checks, not a substitute for consent or governance;
-- **Root Sequence** — conceptual commons, systems research, and ecosystem orientation;
-- **Liberated Intelligence** — intelligence, agency, ownership, autonomy, and liberation;
-- **Universal Coherence Framework** — UCF concepts, applications, tests, limits, and critiques;
-- **Being Human(e)** — field-guide themes, examples, structure, and accessibility;
-- **Liberation Mass** — gathering, ritual, commons, facilitation, mutual aid, and participant care;
-- **Community Infrastructure** — public discussion of community discovery, coordination, mutual aid, resources, governance, accessibility, federation, prototypes, research questions, and ecosystem relationships;
-- **Coherent World / No One Noticed** — public, non-spoiler ecosystem and project discussion;
-- **Project Planning** — coordination across repositories;
-- **Root Sequence Meta** — organization structure, naming, boundaries, and direction.
+- **Announcements** — official public updates from Root Sequence projects and maintainers;
+- **Orientation & Q&A** — reusable questions about where material belongs, how projects connect, and how to participate;
+- **Ideas & Open Questions** — early proposals, speculative connections, and questions without a settled destination;
+- **Research & Synthesis** — sources, concepts, evidence, interpretations, cross-domain synthesis, tests, and critique;
+- **Projects & Practice** — prototypes, publications, experiments, gatherings, field work, and lessons from application;
+- **Coordination & Planning** — cross-repository proposals, sequencing, dependencies, and public roadmap discussion;
+- **Ecosystem & Governance** — organization structure, naming, boundaries, stewardship, policy, and governance;
+- **Open Conversation** — relevant conversation that does not yet fit a narrower category;
+- **Polls** — lightweight preference checks, never a substitute for consent, evidence, or a project’s decision process.
+
+The live GitHub categories are the interface-level source of truth. If a thread develops a clear project-specific destination, link that destination and continue the durable work there rather than creating a new discussion category for every project.
 
 Do not post private story canon, unpublished drafts, contributor data, participant data, credentials, security details, or sensitive archival material into a public discussion.
 

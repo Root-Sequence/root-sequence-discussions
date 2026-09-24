@@ -1,24 +1,23 @@
 # Idea / Proposal
 
-## 🧩 Summary
+## Summary
 Briefly describe the core idea.
 
-## 💡 Motivation
+## Why it matters
 Why does this matter?  
 What problem or question does it address?
 
-## 🧭 Context
-Related repos, projects, frameworks, or discussions.
+## Context and connections
+Link related repositories, documents, sources, issues, projects, frameworks, or discussions.
 
-## 🔍 Details
+## Details
 Add any specifics, examples, diagrams, or thought-paths.
 
-## 🧬 Coherence Links
-How does this connect to:
-- UCF  
-- Liberated Intelligence  
-- Root Sequence  
-- Other dev11://systems threads  
+## Status of the idea
+What is evidence, interpretation, speculation, personal reaction, or proposed action? What is still uncertain or contested?
 
-## 🛠 Next Steps
-What could happen next?
+## Likely home
+If this develops into durable work, which project or document should maintain it? Write **placement open** if that is part of the question.
+
+## Possible next step
+What could happen next, and who—if anyone—is able to take it forward?
