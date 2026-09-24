@@ -24,12 +24,13 @@ Root Sequence Discussions is the public conversation and coordination hub for cr
 
 This repository primarily supports GitHub Discussions and the rules around them. It is not the canonical source for every project, a substitute for issues and pull requests, or a mechanism by which conversation automatically changes fiction canon, project policy, or private research.
 
+Some participation, governance, and conduct files still use the earlier `dev11://systems` identity. Treat their legacy naming and authority language as pending alignment; they do not override the current Root Sequence README, live categories, privacy boundary, or project-owned decision routing.
+
 ## The smallest useful map
 
-- [README](README.md) — purpose, categories, and routing examples.
-- [Contributing](CONTRIBUTING.md) — how to participate productively.
-- [Governance](GOVERNANCE.md) — what this hub can decide and where decisions go.
-- [Code of Conduct](CODE_OF_CONDUCT.md) — behavioral expectations and reporting.
+- [README](README.md) — current purpose, categories, and routing examples.
+- [Contributing](CONTRIBUTING.md), [Governance](GOVERNANCE.md), and [Code of Conduct](CODE_OF_CONDUCT.md) — legacy operational documents awaiting Root Sequence alignment.
+- Live GitHub Discussion categories — interface-level source of truth.
 
 ## Where it fits
 
