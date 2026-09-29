@@ -24,6 +24,8 @@ Root Sequence Discussions is the public conversation and coordination hub for cr
 
 This repository primarily supports GitHub Discussions and the rules around them. It is not the canonical source for every project, a substitute for issues and pull requests, or a mechanism by which conversation automatically changes fiction canon, project policy, or private research.
 
+The hub now translates Root Sequence’s shared Epistemic Contrast and Deliberative Inquiry methods into discussion practice: surface relevant perspectives, weight factual claims by evidence, preserve uncertainty and dissent, and keep conclusions revisable. The canonical methods remain in `Root-Sequence/root-sequence`; this repository does not become a second method authority.
+
 Some participation, governance, and conduct files still use the earlier `dev11://systems` identity. Treat their legacy naming and authority language as pending alignment; they do not override the current Root Sequence README, live categories, privacy boundary, or project-owned decision routing.
 
 ## The smallest useful map
@@ -41,6 +43,7 @@ This is the ecosystem’s shared foyer. Root Sequence, Liberated Intelligence, U
 - **One-repo bug or change:** use that repository’s issue tracker or pull requests.
 - **Cross-project idea:** start a Discussion and name the projects it may affect.
 - **Unsure where something belongs:** describe the question and ask for routing.
+- **Comparing perspectives or preparing a consequential collective decision:** use the shared methods linked from the [README](README.md), without manufacturing false balance or unanimity.
 - **Long thread:** summarize what was learned, identify unresolved disagreement, and link the durable destination.
 
 ## Go deeper
