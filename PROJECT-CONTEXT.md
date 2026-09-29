@@ -23,10 +23,13 @@ It is a foyer and coordination surface—not the canonical home of every durable
 | Governance draft; legacy identity pending alignment | [`GOVERNANCE.md`](GOVERNANCE.md) |
 | Conduct rules; legacy identity pending alignment | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) |
 | Organization relationships | [Root Sequence Ecosystem Map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md) |
+| Shared inquiry practices used in discussions | [Epistemic Contrast](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/epistemic-contrast.md) and [Deliberative Inquiry](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/deliberative-inquiry.md) |
 
 ## Current reality
 
 The repository contains the durable instructions around the live Discussions interface. Actual categories in GitHub remain the interface-level source of truth. Discussion can clarify and recommend; accepted durable work should be recorded in the repository that owns it.
+
+The README now applies Root Sequence’s shared inquiry methods to cross-project conversation. This is a local translation for understanding before persuasion: it does not require artificial symmetry, unanimity, or one decision rule, and it does not transfer ownership of the canonical methods into this hub.
 
 `CONTRIBUTING.md`, `GOVERNANCE.md`, and `CODE_OF_CONDUCT.md` still use the earlier `dev11://systems` identity. Until they are deliberately aligned with Root Sequence, their legacy naming and governance wording must not override the current README, live category structure, privacy boundary, or project-owned decision routing.
 
@@ -36,11 +39,12 @@ Root documents define governance, conduct, contribution, and orientation. `.gith
 
 ## Ecosystem connections
 
-Every Root Sequence project may use this hub for cross-boundary conversation. The hub routes rather than governs those projects. Public discussion about private repositories must remain at an intentionally disclosed level.
+Every Root Sequence project may use this hub for cross-boundary conversation. The hub routes rather than governs those projects. It may apply organization-level inquiry methods while leaving their canonical substance with Root Sequence and durable decisions with the project that owns them. Public discussion about private repositories must remain at an intentionally disclosed level.
 
 ## Working rules
 
 - Move one-repository implementation work to that repository’s issues or pull requests.
+- Use epistemic contrast and deliberative inquiry when stakes justify them; preserve evidence-weighted disagreement rather than manufacturing balance or consensus.
 - End substantial threads with a summary, unresolved disagreement, canonical destination, and next action.
 - Do not post private canon, participant data, credentials, sensitive operations, or unpublished drafts.
 - A discussion does not create canon, override research, or grant publication approval.
