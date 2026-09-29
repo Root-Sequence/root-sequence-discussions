@@ -95,6 +95,16 @@ For the real Museum of Ordinary Life, discussion cannot override the Museum's co
 
 ---
 
+## Inquiry before argument
+
+Cross-project discussion should optimize for understanding before persuasion when the stakes justify it. Root Sequence's shared [Epistemic Contrast](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/epistemic-contrast.md) and [Deliberative Inquiry](https://github.com/Root-Sequence/root-sequence/blob/main/research/methods/deliberative-inquiry.md) methods provide a common pattern:
+
+```text
+question → contrasting accounts → evidence → shared model / uncertainty → deliberation → decision or experiment → revision
+```
+
+A thread does not need artificial “both sides” symmetry. It should make relevant assumptions and perspectives visible, weight factual claims by evidence, preserve unresolved disagreement, and make it socially safe to update a view when better information appears.
+
 ## How to participate
 
 - Start new threads freely; early ideas are welcome.
