@@ -137,3 +137,7 @@ One major path is:
 > **Root Sequence discovers. Community Infrastructure tests. Coherent World designs. No One Noticed experiences. The Museum of Ordinary Life preserves.**
 
 This hub is where threads meet before they root somewhere more durable.
+
+## Commons participation
+
+[Hub governance](GOVERNANCE.md#bounded-participation-and-review) now includes proposed questions for protected criticism, scoped moderation, voluntary repair, practical review limits, and maintainable participation. Discussion remains a routing and learning space; it does not grant project authority or change private/public boundaries.

@@ -38,3 +38,11 @@ Polls can reveal preferences but do not automatically establish consensus, conse
 ## Evolution
 
 This model is intentionally lightweight. Update it when the hub’s real stewardship practices change, not merely to make the process sound more complete than it is.
+
+## Bounded participation and review
+
+**Proposed extension to hub practice.** The [shared commons proposal](https://github.com/Root-Sequence/root-sequence/blob/main/commons/README.md#collaboration-as-a-living-experiment) welcomes questions, disagreement, and alternatives while preserving conduct and privacy boundaries. Criticism of an idea or maintainer is not itself misconduct. Moderation should address conduct and consequences, with legible scope, duration, responsibility, and review where feasible without exposing reporters.
+
+Do not invent an appeals team or promise independent review where none exists. Identify the actual route or the limitation. A person harmed need not mediate, forgive, disclose more, or renew contact to retain protection. Repair is voluntary.
+
+Use summaries and voluntary feedback to notice inaccessible participation, concentrated decisions, and maintenance burden. Silence or departure is ambiguous; it is not agreement. Maintainers may pause, hand off, or reduce scope. A fork or unresolved disagreement does not automatically mean failure; durable decisions still travel through the owning project.
