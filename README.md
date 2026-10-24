@@ -140,4 +140,4 @@ This hub is where threads meet before they root somewhere more durable.
 
 ## Commons participation
 
-[Hub governance](GOVERNANCE.md#bounded-participation-and-review) now includes proposed questions for protected criticism, scoped moderation, voluntary repair, practical review limits, and maintainable participation. Discussion remains a routing and learning space; it does not grant project authority or change private/public boundaries.
+The [proposed governance extension](GOVERNANCE.md#bounded-participation-and-review) asks how the hub can protect criticism and make moderation decisions easier to question. Its review routes must reflect the people and processes actually available. Durable decisions still belong with the project responsible for them, and existing privacy boundaries remain in place.
